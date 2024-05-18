@@ -13,6 +13,7 @@ yarn install
 > yarn dev
 
 ## compilar para javascript e executar
+
  <pre>
  yarn build
  yarn start
